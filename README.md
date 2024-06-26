@@ -24,4 +24,4 @@ Done, Redirects: 2
 ```
 
 ## LICENSE
-These scripts are published under the [MIT](https://github.com/fhAnso/rtrace/blob/main/LICENSE) license.
+This script is published under the [MIT](https://github.com/fhAnso/rtrace/blob/main/LICENSE) license.
